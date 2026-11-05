@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medina-atelier.com/sitemap.xml
